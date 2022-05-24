@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkaEsPrZQ9aybncRvYdSiHkkNTS7qsFXQBCW/1bUfAZOuw6ln/z2TtFQQvXVeYkUv2yKKp5s6aoAPWjcJAWs6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benito\\source\\repos\\LB3\\LB4\\LB4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benito\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
